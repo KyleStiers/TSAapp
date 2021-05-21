@@ -5,7 +5,6 @@ require(shinyjs)
 require(graphics)
 require(png)
 require(readxl)
-#require(readxl)
 
 shinyServer(function(input, output) {
   options(shiny.maxRequestSize = 30*1024^2)
