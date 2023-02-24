@@ -1,5 +1,7 @@
-# TSAapp
-[TSA App](https://kylestiers.shinyapps.io/TSAapp/)
+# [TSAapp](https://kylestiers.shinyapps.io/TSAapp/)
+
+TSA App
+https://kylestiers.shinyapps.io/TSAapp/
 
 Tool for parsing ouput of a TSA experiment on a QS3 instrument and immediate analysis of experimental results with some on-the-fly control over plotting and view for basic figure generation.
 
